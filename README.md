@@ -11,7 +11,10 @@ e.g.
   # declare the variable A and define the value that is stored
   A = 22
   
-  # declare the function fun(.) with one parameter, namely b, visible ONLY inside the function body
+  '''
+  declare the function fun(.) with one parameter, namely b, 
+  visible ONLY inside the function body
+  '''
   def fun(b):
       print (b)
       
