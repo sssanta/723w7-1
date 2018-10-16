@@ -2,10 +2,10 @@
 
 ### Homework Task:
 * To have a good rest!
-* To publish a link to Webinar video source (Week 6) </br>
+* To publish a link to Webinar video source (Week 6)
   (Please, keep in mind: Page-> Image->Link->VideoSource)
   
-* To present the code, used in the webinar</br>
+* To present the code, used in the webinar, 
 e.g.
   ```python
   # declare the variable A and define the value that is stored
