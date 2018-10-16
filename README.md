@@ -3,11 +3,12 @@
 ### Homework Task:
 * To have a good rest!
 * To publish a link to Webinar video source (Week 6)
-  (Please, keep in mind: Page-> Image->Link->VideoSource)
+*   (Please, keep in mind: Page-> Image->Link->VideoSource)
   
 * To present the code, used in the webinar, 
-e.g.
   ```python
+  
+  # Example code:
   # declare the variable A and define the value that is stored
   A = 22
   
@@ -19,7 +20,8 @@ e.g.
       print (b)
       
   # Invoke the function fun(.) with the A as the parameter   
-  fun(A)    
+  fun(A) 
+  
   ```
 * Reflect on the webinar of recent week applying the short convoying text.
 * In other words, just do the best! 
