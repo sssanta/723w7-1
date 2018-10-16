@@ -1,6 +1,6 @@
-# 723 week 7 part 1
+# 723 week 7 class 1
 
-Homework Task:
+### Homework Task:
 * To have a good rest!
 * To publish a link to Webinar video source (Week 6) </br>
   (Please, keep in mind: Page-> Image->Link->VideoSource)
