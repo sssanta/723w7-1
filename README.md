@@ -20,3 +20,9 @@ e.g.
   ```
 * Reflect on the webinar of recent week applying the short convoying text.
 * In other words, just do the best! 
+
+
+### BTW
+
+Follow the link to get more about the GIT:
+https://youtu.be/51LQJbGeOQo
