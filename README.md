@@ -28,4 +28,4 @@ e.g.
 ### BTW
 
 Follow the link to get more about the GIT:
-[![https://youtu.be/51LQJbGeOQo)](https://youtu.be/51LQJbGeOQo)]()
+[![https://youtu.be/51LQJbGeOQo](https://zeroturnaround.com/wp-content/uploads/2016/02/Git-Cheat-Sheet-pdf-v2.png)](https://youtu.be/51LQJbGeOQo)
