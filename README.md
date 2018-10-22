@@ -1,33 +1,13 @@
-# 723 week 7 class 1
+# 723 Week 7 Part One
+## Santa Sudnika: Homework
 
-### Homework Task:
-* To have a good rest!
-* To publish a link to Webinar video source (Week 6)
-*   (Please, keep in mind: Page-> Image->Link->VideoSource)
-  
-* To present the code, used in the webinar, 
-  ```python
-  
-  # Example code:
-  # declare the variable A and define the value that is stored
-  A = 22
-  
-  '''
-  declare the function fun(.) with one parameter, namely b, 
-  visible ONLY inside the function body
-  '''
-  def fun(b):
-      print (b)
-      
-  # Invoke the function fun(.) with the A as the parameter   
-  fun(A) 
-  
-  ```
-* Reflect on the webinar of recent week applying the short convoying text.
-* In other words, just do the best! 
+Look at these fabulous charts (and click this image for an even more fabulous video)..
 
+<p><a href="https://youtu.be/eadLZyEJlzQ" target="_blank"><img src="https://cdn-images-1.medium.com/max/700/1*N0tRnDv63278HUKF_dE4HA.png" alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" /></a></p>
 
-### BTW
+```R
+y <- c("Hyperbole","Litotes","Paradox","Antithesis","Zeugma", "Pun", "Paralellism", "Repetition")
+x <- c(29,9,18,11,5,8, 17,21)
+barplot(x,names.arg=y, xlab="Device", ylab="Number", col="dark green", main="Stylistic devices", border="black")
 
-Follow the link to get more about the GIT:
-[![https://youtu.be/51LQJbGeOQo](https://zeroturnaround.com/wp-content/uploads/2016/02/Git-Cheat-Sheet-pdf-v2.png)](https://youtu.be/51LQJbGeOQo)
+```
